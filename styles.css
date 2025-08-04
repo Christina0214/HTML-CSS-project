@@ -80,8 +80,8 @@ nav ul li a {
 /* HOME PAGE */
 body, html {
     height: 100%;
-    margin: 0;
     font-family: Arial, sans-serif;
+    margin: 0;
 }
 
 .hero-image {
@@ -157,6 +157,7 @@ body, html {
     padding: 30px 20px;
     text-align: center;
     font-size: 0.95rem;
+    margin: 0;
 }
 
 .site-footer a {
@@ -304,6 +305,7 @@ tr:nth-child(even) {
     padding: 30px 20px;
     background-color: #fff;
     text-align: center;
+    margin: 50px auto;
 }
 
 .location-section h1, h2 {
@@ -332,7 +334,7 @@ tr:nth-child(even) {
 /* CONTACT PAGE */
 .contact-page {
     max-width: 600px;
-    margin: 100px auto;
+    margin: 150px auto;
     font-family: Arial, sans-serif;
 }
 
