@@ -1,0 +1,30 @@
+/* LOCATION PAGE */
+.location-page {
+    padding: 30px 20px;
+    background-color: #fff;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.location-section h1, h2 {
+    color: #333;
+    font-size: 2rem;
+}
+
+.location-section p {
+    font-size: 1rem;
+    color: #555; 
+}
+
+.hours-info {
+    font-size: 12px !important;
+}
+
+/* Map image styles */
+.map-image img {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 10px;
+    margin: 30px 0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}

@@ -1,0 +1,55 @@
+/* MENU PAGE */
+.menu-page {
+    padding: 80px 50px;
+    background-color: #fff;
+    margin: auto;
+    max-width: 800px;
+}
+
+.menu-page h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 3rem;
+    color: #745555;
+}
+
+.menu-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1rem;
+}
+
+.menu-table thead tr th {
+    background-color: #b58585;
+    color: white;
+    font-size: 1.5rem;
+    padding: 20px;
+    text-align: left;
+}
+
+.menu-table tbody td {
+    font-size: 18px;
+}
+
+.menu-table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    vertical-align: middle;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.menu-table tbody tr:hover {
+    background-color: #f1d0bf;
+    cursor: pointer;
+    }
+
+.menu-table img {
+    width: 100px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 5px;
+    vertical-align: middle;
+}
